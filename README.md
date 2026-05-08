@@ -43,9 +43,10 @@ WISFLOS UniVerse
 Brainstorm Project Link https://brainstorm.pinet.com/project/69b0a6aac97520a2daddaf5f
 Be part of  WISFLOS University Academy and;
 Build it. Dream it. Own it.
-About The WISFLOSUniVerse Products and Brands ,logo and WFL TOKEN logo described as
-About WSFLOS UniVerse Ecosystem Logo Below,
-Based on the visual assets developed for **WISFLOS UniVerse**, at WISFLOS-PRODUCTS-IMAGES REPOS ;
+
+About The WISFLOSUniVerse Products and Brands ;logo and WFL TOKEN logo described  and followed by WISFLOS UniVerse Ecosystem and be
+Based ;
+On the visual assets developed for **WISFLOS UniVerse**, at WISFLOS-PRODUCTS-IMAGES REPOS ;
 The brand identity utilizes a sophisticated "Cosmic Tech" palette that reflects the intersection of traditional academia and Web3 innovation.
 
 ### **Primary Color Palette**
